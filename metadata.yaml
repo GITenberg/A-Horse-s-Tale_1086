@@ -1,5 +1,8 @@
 _repo: A-Horse-s-Tale_1086
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -14,6 +17,8 @@ creator:
 description: "A Horse's Tale is a novel by Mark Twain (Samuel Clemens), written partially\
   \ in the voice of Soldier Boy, who is Buffalo Bill's favorite horse, at a fictional\
   \ frontier outpost with the U.S. 7th Cavalry.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1086#A-Horse-s-Tale
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
 identifiers:
